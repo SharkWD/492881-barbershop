@@ -1,0 +1,36 @@
+body {
+color: #000000;
+font-family: "PT Sans";
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+}
+
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	border: 0;
+	padding: 0;
+	clip: rect(0 0 0 0);
+	overflow: hidden;
+}
+.page-title {
+color: #000000;
+font-family: "PT Sans";
+font-size: 30px;
+font-weight: 700;
+line-height: 42px;
+text-transform: uppercase;
+}
+h3 {
+color: #000000;
+font-family: "PT Sans";
+font-size: 14px;
+font-weight: 700;
+line-height: 18px;
+}
+.catalog-item-title {
+	text-transform: uppercase;
+}
