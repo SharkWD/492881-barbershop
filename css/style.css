@@ -227,3 +227,8 @@ line-height: 18px;
 	text-transform: uppercase;
 }
 
+.page-navigation,
+.site-navigation {
+	display: flex;
+	flex-wrap: wrap;
+}
